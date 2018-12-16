@@ -1,0 +1,14 @@
+<head>
+<link rel="stylesheet" href="rachel724/js/reportcard/css/badges.css">
+</head>
+<body>
+<div class="report-card treehouse"></div>
+<script>
+$('.report-card.treehouse').reportCard({
+    userName: 'rachel724',
+    site: 'treehouse',
+    badgesAmount: 7
+});
+</script>
+<script src="rachel724/js/reportcard/js/reportcard.js"></script>
+</body>
